@@ -2710,3 +2710,344 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.10.21-14.02.51:426][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.10.21-14.02.51:429][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
 [2024.10.21-14.02.51:490][265]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2024.10.21-14.38.30:963][937]LogDerivedDataCache: C:/Users/diazm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.077 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1693 files in 2548 folders with total size 90 MiB.
+[2024.10.21-15.38.31:941][551]LogDerivedDataCache: C:/Users/diazm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.055 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1693 files in 2548 folders with total size 90 MiB.
+[2024.10.21-15.56.26:441][228]LogEditorTransaction: Undo Add Node
+[2024.10.21-15.57.04:377][804]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2024.10.21-15.57.04:381][804]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.040
+[2024.10.21-15.57.04:382][804]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_NPC1] ([2] browsable assets)...
+[2024.10.21-15.57.04:505][804]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_NPC1.BP_NPC1]
+[2024.10.21-15.57.04:506][804]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_NPC1]
+[2024.10.21-15.57.04:520][804]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_NPC1_Auto4
+[2024.10.21-15.57.04:520][804]LogSavePackage: Moving '../../../../Proyectos3/FluffyGourmet/Saved/BP_NPC1_Auto4C82F9ED841FC71999357FEBEA1A8EE0B.tmp' to '../../../../Proyectos3/FluffyGourmet/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_NPC1_Auto4.uasset'
+[2024.10.21-15.57.04:520][804]LogFileHelpers: Auto-saving content packages took 0.139
+[2024.10.21-15.57.13:988][909]BlueprintLog: New page: Compile BP_NPC1
+[2024.10.21-15.57.14:069][909]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.10.21-15.57.14:667][952]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.21-15.57.14:756][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_NPC1" FILE="../../../../Proyectos3/FluffyGourmet/Content/FirstPerson/Blueprints/BP_NPC1.uasset" SILENT=true
+[2024.10.21-15.57.14:767][952]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_NPC1
+[2024.10.21-15.57.14:768][952]LogSavePackage: Moving '../../../../Proyectos3/FluffyGourmet/Saved/BP_NPC1B652904346D1797F763B97A4E4224064.tmp' to '../../../../Proyectos3/FluffyGourmet/Content/FirstPerson/Blueprints/BP_NPC1.uasset'
+[2024.10.21-15.57.14:773][952]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 3.99 sec)
+[2024.10.21-15.57.14:792][952]AssetCheck: New page: Asset Save: BP_NPC1
+[2024.10.21-15.57.14:792][952]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_NPC1.BP_NPC1
+[2024.10.21-15.57.39:797][614]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Actor
+[2024.10.21-15.57.39:797][614]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Actor
+[2024.10.21-15.57.39:866][614]LogActorFactory: Actor Factory spawned Class /Script/Engine.Actor as actor: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Actor_UAID_244BFE904A69DE2702_1636127752
+[2024.10.21-15.57.39:866][614]LogActorFactory: Actor Factory spawned Class /Script/Engine.Actor as actor: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Actor_UAID_244BFE904A69DE2702_1636127752
+[2024.10.21-15.57.41:887][841]Cmd: TRANSACTION UNDO
+[2024.10.21-15.57.41:887][841]LogEditorTransaction: Undo Create Actor
+[2024.10.21-15.58.04:174][229]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Actor
+[2024.10.21-15.58.04:174][229]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Actor
+[2024.10.21-15.58.04:175][229]LogActorFactory: Actor Factory spawned Class /Script/Engine.Actor as actor: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Actor_0
+[2024.10.21-15.58.04:175][229]LogActorFactory: Actor Factory spawned Class /Script/Engine.Actor as actor: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Actor_0
+[2024.10.21-15.58.05:523][379]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Actor
+[2024.10.21-15.58.05:523][379]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Actor
+[2024.10.21-15.58.05:524][379]LogActorFactory: Actor Factory spawned Class /Script/Engine.Actor as actor: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Actor_UAID_244BFE904A69DE2702_1661853753
+[2024.10.21-15.58.05:525][379]LogActorFactory: Actor Factory spawned Class /Script/Engine.Actor as actor: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Actor_UAID_244BFE904A69DE2702_1661853753
+[2024.10.21-16.04.34:949][202]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonPlayerController.BP_FirstPersonPlayerController
+[2024.10.21-16.04.34:949][202]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.21-16.04.34:950][202]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.21-16.04.36:976][406]LogViewport: Scene viewport resized to 906x875, mode Windowed.
+[2024.10.21-16.04.40:561][812]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2024.10.21-16.04.40:561][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.21-16.04.42:762][ 54]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.10.21-16.04.42:762][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.21-16.04.42:767][ 54]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.10.21-16.04.42:767][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.21-16.04.44:374][238]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.10.21-16.04.44:374][238]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.21-16.04.50:578][902]LogViewport: Scene viewport resized to 906x875, mode Windowed.
+[2024.10.21-16.07.07:688][264]BlueprintLog: New page: Compile BP_NPC1
+[2024.10.21-16.07.07:763][264]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Actor_UAID_244BFE904A69DE2702_1636127752 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/EI/MQEIBGT00PVNN5M0FT667S.PackageMetaData in its package
+[2024.10.21-16.07.07:801][264]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2024.10.21-16.07.08:026][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.10.21-16.07.08:191][275]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.21-16.07.08:284][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_NPC1" FILE="../../../../Proyectos3/FluffyGourmet/Content/FirstPerson/Blueprints/BP_NPC1.uasset" SILENT=true
+[2024.10.21-16.07.08:298][275]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_NPC1
+[2024.10.21-16.07.08:299][275]LogSavePackage: Moving '../../../../Proyectos3/FluffyGourmet/Saved/BP_NPC198277FCB4A918ED8904371AE65F58C3A.tmp' to '../../../../Proyectos3/FluffyGourmet/Content/FirstPerson/Blueprints/BP_NPC1.uasset'
+[2024.10.21-16.07.08:328][277]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 4.11 sec)
+[2024.10.21-16.07.08:328][277]AssetCheck: New page: Asset Save: BP_NPC1
+[2024.10.21-16.07.08:328][277]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_NPC1.BP_NPC1
+[2024.10.21-16.07.41:152][887]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.10.21-16.07.41:158][887]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/4W/JL4W92A1JFUQNZLCX8Q6BG_Auto5
+[2024.10.21-16.07.41:158][887]LogSavePackage: Moving '../../../../Proyectos3/FluffyGourmet/Saved/JL4W92A1JFUQNZLCX8Q6BG_Auto5D90098F74D87F34A039BC598F4E1C08B.tmp' to '../../../../Proyectos3/FluffyGourmet/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/4W/JL4W92A1JFUQNZLCX8Q6BG_Auto5.uasset'
+[2024.10.21-16.07.41:159][887]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.028
+[2024.10.21-16.07.41:159][887]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.028
+[2024.10.21-16.10.37:151][656]BlueprintLog: New page: Compile BP_NPC1
+[2024.10.21-16.10.37:209][656]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.10.21-16.10.37:685][685]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.21-16.10.37:771][685]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_NPC1" FILE="../../../../Proyectos3/FluffyGourmet/Content/FirstPerson/Blueprints/BP_NPC1.uasset" SILENT=true
+[2024.10.21-16.10.37:784][685]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_NPC1
+[2024.10.21-16.10.37:784][685]LogSavePackage: Moving '../../../../Proyectos3/FluffyGourmet/Saved/BP_NPC1E9A3BBCC412A606006C07BAA191ADDBF.tmp' to '../../../../Proyectos3/FluffyGourmet/Content/FirstPerson/Blueprints/BP_NPC1.uasset'
+[2024.10.21-16.10.37:789][685]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 4.21 sec)
+[2024.10.21-16.10.37:791][685]AssetCheck: New page: Asset Save: BP_NPC1
+[2024.10.21-16.10.37:791][685]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_NPC1.BP_NPC1
+[2024.10.21-16.11.45:052][613]BlueprintLog: New page: Compile BP_NPC1
+[2024.10.21-16.11.45:178][613]LogUObjectHash: Compacting FUObjectHashTables data took   9.42ms
+[2024.10.21-16.11.45:695][647]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.21-16.11.45:785][647]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_NPC1" FILE="../../../../Proyectos3/FluffyGourmet/Content/FirstPerson/Blueprints/BP_NPC1.uasset" SILENT=true
+[2024.10.21-16.11.45:798][647]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_NPC1
+[2024.10.21-16.11.45:798][647]LogSavePackage: Moving '../../../../Proyectos3/FluffyGourmet/Saved/BP_NPC1CBB767BD45682D2F91B65E8DAFF69CBF.tmp' to '../../../../Proyectos3/FluffyGourmet/Content/FirstPerson/Blueprints/BP_NPC1.uasset'
+[2024.10.21-16.11.45:805][647]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 4.32 sec)
+[2024.10.21-16.11.45:805][647]AssetCheck: New page: Asset Save: BP_NPC1
+[2024.10.21-16.11.45:805][647]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_NPC1.BP_NPC1
+[2024.10.21-16.12.28:406][313]BlueprintLog: New page: Compile BP_NPC1
+[2024.10.21-16.12.28:534][313]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.10.21-16.12.29:023][335]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.21-16.12.29:124][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_NPC1" FILE="../../../../Proyectos3/FluffyGourmet/Content/FirstPerson/Blueprints/BP_NPC1.uasset" SILENT=true
+[2024.10.21-16.12.29:140][335]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_NPC1
+[2024.10.21-16.12.29:140][335]LogSavePackage: Moving '../../../../Proyectos3/FluffyGourmet/Saved/BP_NPC1840B4BD74DA190B3705F1C983C366C07.tmp' to '../../../../Proyectos3/FluffyGourmet/Content/FirstPerson/Blueprints/BP_NPC1.uasset'
+[2024.10.21-16.12.29:149][335]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 4.44 sec)
+[2024.10.21-16.12.29:149][335]AssetCheck: New page: Asset Save: BP_NPC1
+[2024.10.21-16.12.29:150][335]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_NPC1.BP_NPC1
+[2024.10.21-16.12.54:444][255]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.21-16.12.54:476][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_NPC1" FILE="../../../../Proyectos3/FluffyGourmet/Content/FirstPerson/Blueprints/BP_NPC1.uasset" SILENT=true
+[2024.10.21-16.12.54:489][255]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_NPC1
+[2024.10.21-16.12.54:489][255]LogSavePackage: Moving '../../../../Proyectos3/FluffyGourmet/Saved/BP_NPC191CBB1774F1E6A1D65D22F9EDDBCC42F.tmp' to '../../../../Proyectos3/FluffyGourmet/Content/FirstPerson/Blueprints/BP_NPC1.uasset'
+[2024.10.21-16.12.54:493][255]LogFileHelpers: InternalPromptForCheckoutAndSave took 48 ms (total: 4.49 sec)
+[2024.10.21-16.12.54:495][255]AssetCheck: New page: Asset Save: BP_NPC1
+[2024.10.21-16.12.54:495][255]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_NPC1.BP_NPC1
+[2024.10.21-16.13.10:116][700]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.21-16.13.10:153][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_NPC1" FILE="../../../../Proyectos3/FluffyGourmet/Content/FirstPerson/Blueprints/BP_NPC1.uasset" SILENT=true
+[2024.10.21-16.13.10:165][700]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_NPC1
+[2024.10.21-16.13.10:165][700]LogSavePackage: Moving '../../../../Proyectos3/FluffyGourmet/Saved/BP_NPC1906B53D047B773BA6F157C91B99AE483.tmp' to '../../../../Proyectos3/FluffyGourmet/Content/FirstPerson/Blueprints/BP_NPC1.uasset'
+[2024.10.21-16.13.10:170][700]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 4.55 sec)
+[2024.10.21-16.13.10:174][700]AssetCheck: New page: Asset Save: BP_NPC1
+[2024.10.21-16.13.10:174][700]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_NPC1.BP_NPC1
+[2024.10.21-16.15.17:962][654]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.21-16.15.17:988][654]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/PX/ILA7ETUHAAM3IL8XAHWN87
+[2024.10.21-16.15.17:988][654]LogSavePackage: Moving '../../../../Proyectos3/FluffyGourmet/Saved/ILA7ETUHAAM3IL8XAHWN872BB98C10440E96FA4482FB83CB2766E7.tmp' to '../../../../Proyectos3/FluffyGourmet/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/PX/ILA7ETUHAAM3IL8XAHWN87.uasset'
+[2024.10.21-16.15.17:990][654]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/4W/JL4W92A1JFUQNZLCX8Q6BG
+[2024.10.21-16.15.17:990][654]LogSavePackage: Moving '../../../../Proyectos3/FluffyGourmet/Saved/JL4W92A1JFUQNZLCX8Q6BG4D9773CC4BFAD54DD9AE4B84CEC269BA.tmp' to '../../../../Proyectos3/FluffyGourmet/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/4W/JL4W92A1JFUQNZLCX8Q6BG.uasset'
+[2024.10.21-16.15.18:064][654]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 4.65 sec)
+[2024.10.21-16.15.18:116][654]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.21-16.15.18:116][654]LogContentValidation: Display: Validating /Game/FirstPerson/Blueprints/BP_NPC1.BP_NPC1_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_NPC1_C_UAID_244BFE904A69CD2702_1412601759
+[2024.10.21-16.15.18:116][654]LogContentValidation: Display: Validating /Script/Engine.Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Actor_UAID_244BFE904A69DE2702_1661853753
+[2024.10.21-16.15.24:731][430]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.21-16.15.24:736][430]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.10.21-16.15.24:736][430]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.10.21-16.15.24:737][430]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 1 ms (total: 16 ms)
+[2024.10.21-16.15.24:737][430]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.21-16.15.24:737][430]PIE: New page: PIE session: FirstPersonMap (21 oct. 2024 20:15:24)
+[2024.10.21-16.15.24:775][430]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.10.21-16.15.24:779][430]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003619s)
+[2024.10.21-16.15.24:779][430]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.003654s)
+[2024.10.21-16.15.24:806][430]LogUObjectHash: Compacting FUObjectHashTables data took   8.85ms
+[2024.10.21-16.15.24:812][430]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.21-16.15.24:812][430]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.21-16.15.24:813][430]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.10.21-16.15.24:813][430]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.10.21-16.15.24:813][430]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.10.21-16.15.24:813][430]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.10.21-16.15.24:813][430]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.10.21-16.15.24:814][430]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.10.21-16.15.24:814][430]LogWorldPartition: Display: WorldPartition initialize took 951 us (total: 54 ms)
+[2024.10.21-16.15.24:814][430]LogPlayLevel: PIE: World Init took: (0.002106s)
+[2024.10.21-16.15.24:814][430]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.10.21-16.15.24:814][430]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.21-16.15.24:814][430]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.21-16.15.24:814][430]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.21-16.15.24:814][430]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.21-16.15.24:814][430]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.21-16.15.24:814][430]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.21-16.15.24:814][430]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.21-16.15.24:814][430]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.21-16.15.24:815][430]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.21-16.15.24:815][430]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.21-16.15.24:815][430]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.21-16.15.24:817][430]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.21-16.15.24:850][430]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (3- Realtek High Definition Audio)
+[2024.10.21-16.15.24:851][430]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.21-16.15.24:851][430]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.21-16.15.24:851][430]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.21-16.15.24:852][430]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.10.21-16.15.24:852][430]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.10.21-16.15.24:853][430]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.10.21-16.15.24:853][430]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.10.21-16.15.24:853][430]LogInit: FAudioDevice initialized with ID 14.
+[2024.10.21-16.15.24:853][430]LogAudio: Display: Audio Device (ID: 14) registered with world 'FirstPersonMap'.
+[2024.10.21-16.15.24:853][430]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2024.10.21-16.15.24:858][430]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.10.21-16.15.24:862][430]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.10.21-18.15.24
+[2024.10.21-16.15.24:862][430]LogWorld: Bringing up level for play took: 0.003585
+[2024.10.21-16.15.24:864][430]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2024.10.21-16.15.24:869][430]PIE: Server logged in
+[2024.10.21-16.15.24:869][430]PIE: Play in editor total start time 0,134 seconds.
+[2024.10.21-16.15.32:616][338]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.21-16.15.32:616][338]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.10.21-16.15.32:616][338]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.21-16.15.32:617][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.21-16.15.32:617][338]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.10.21-16.15.32:622][338]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.21-16.15.32:626][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.21-16.15.32:641][338]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.21-16.15.32:641][338]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2024.10.21-16.15.32:641][338]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.10.21-16.15.32:643][338]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.10.21-16.15.32:649][338]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.21-16.15.32:652][338]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.10.21-16.15.32:695][339]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2024.10.21-16.17.35:983][903]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2024.10.21-16.17.35:983][903]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2024.10.21-16.17.35:986][903]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.NavMeshBoundsVolume_UAID_244BFE904A69DF2702_1758571930
+[2024.10.21-16.17.35:993][903]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.NavMeshBoundsVolume_UAID_244BFE904A69DF2702_1758571930
+[2024.10.21-16.18.05:686][671]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.10.21-16.18.05:722][671]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/0E/PX8FCUJ9IL4W07CHK3O531_Auto6
+[2024.10.21-16.18.05:722][671]LogSavePackage: Moving '../../../../Proyectos3/FluffyGourmet/Saved/PX8FCUJ9IL4W07CHK3O531_Auto66A90E439432B0BB24719D38EC6ED703F.tmp' to '../../../../Proyectos3/FluffyGourmet/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/0E/PX8FCUJ9IL4W07CHK3O531_Auto6.uasset'
+[2024.10.21-16.18.05:724][671]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/HT/VU3D05DVIOD4JKDV2A78TK_Auto6
+[2024.10.21-16.18.05:724][671]LogSavePackage: Moving '../../../../Proyectos3/FluffyGourmet/Saved/VU3D05DVIOD4JKDV2A78TK_Auto656E60AA445A0B04F3F920684E6E5700C.tmp' to '../../../../Proyectos3/FluffyGourmet/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/HT/VU3D05DVIOD4JKDV2A78TK_Auto6.uasset'
+[2024.10.21-16.18.05:724][671]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.061
+[2024.10.21-16.18.05:724][671]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.061
+[2024.10.21-16.18.05:725][671]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/9R/FAGA6WZJ4D7WE9WI8ZR223_Auto6
+[2024.10.21-16.18.05:725][671]LogSavePackage: Moving '../../../../Proyectos3/FluffyGourmet/Saved/FAGA6WZJ4D7WE9WI8ZR223_Auto660DF006940E84F517197E58F0686DFD1.tmp' to '../../../../Proyectos3/FluffyGourmet/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/9R/FAGA6WZJ4D7WE9WI8ZR223_Auto6.uasset'
+[2024.10.21-16.18.05:725][671]LogFileHelpers: Auto-saving content packages took 0.001
+[2024.10.21-16.25.12:241][765]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.21-16.25.12:247][765]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.10.21-16.25.12:247][765]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.10.21-16.25.12:248][765]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 1 ms (total: 17 ms)
+[2024.10.21-16.25.12:248][765]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.21-16.25.12:248][765]PIE: New page: PIE session: FirstPersonMap (21 oct. 2024 20:25:12)
+[2024.10.21-16.25.12:276][765]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.10.21-16.25.12:280][765]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004213s)
+[2024.10.21-16.25.12:280][765]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004248s)
+[2024.10.21-16.25.12:295][765]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.10.21-16.25.12:299][765]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.21-16.25.12:299][765]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.21-16.25.12:300][765]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.10.21-16.25.12:300][765]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.10.21-16.25.12:300][765]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.10.21-16.25.12:300][765]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.10.21-16.25.12:300][765]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.10.21-16.25.12:301][765]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.10.21-16.25.12:301][765]LogWorldPartition: Display: WorldPartition initialize took 897 us (total: 55 ms)
+[2024.10.21-16.25.12:301][765]LogPlayLevel: PIE: World Init took: (0.001946s)
+[2024.10.21-16.25.12:301][765]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.10.21-16.25.12:301][765]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.21-16.25.12:301][765]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.21-16.25.12:301][765]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.21-16.25.12:301][765]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.21-16.25.12:301][765]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.21-16.25.12:301][765]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.21-16.25.12:301][765]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.21-16.25.12:301][765]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.21-16.25.12:301][765]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.21-16.25.12:301][765]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.21-16.25.12:301][765]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.21-16.25.12:303][765]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.21-16.25.12:336][765]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (3- Realtek High Definition Audio)
+[2024.10.21-16.25.12:337][765]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.21-16.25.12:337][765]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.21-16.25.12:337][765]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.21-16.25.12:338][765]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.10.21-16.25.12:338][765]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2024.10.21-16.25.12:339][765]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.10.21-16.25.12:339][765]LogInit: FAudioDevice initialized with ID 15.
+[2024.10.21-16.25.12:339][765]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.10.21-16.25.12:339][765]LogAudio: Display: Audio Device (ID: 15) registered with world 'FirstPersonMap'.
+[2024.10.21-16.25.12:339][765]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2024.10.21-16.25.12:342][765]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.10.21-16.25.12:345][765]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.10.21-18.25.12
+[2024.10.21-16.25.12:346][765]LogWorld: Bringing up level for play took: 0.003717
+[2024.10.21-16.25.12:347][765]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2024.10.21-16.25.12:352][765]PIE: Server logged in
+[2024.10.21-16.25.12:353][765]PIE: Play in editor total start time 0,106 seconds.
+[2024.10.21-16.25.26:466][436]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.21-16.25.26:466][436]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.10.21-16.25.26:466][436]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.21-16.25.26:466][436]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.21-16.25.26:466][436]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.10.21-16.25.26:470][436]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.21-16.25.26:475][436]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.21-16.25.26:492][436]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.21-16.25.26:493][436]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2024.10.21-16.25.26:493][436]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.10.21-16.25.26:495][436]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.10.21-16.25.26:501][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.10.21-16.25.26:562][437]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2024.10.21-16.25.54:380][678]BlueprintLog: New page: Compile BP_NPC1
+[2024.10.21-16.25.54:466][678]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.10.21-16.25.55:098][735]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.21-16.25.55:127][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_NPC1" FILE="../../../../Proyectos3/FluffyGourmet/Content/FirstPerson/Blueprints/BP_NPC1.uasset" SILENT=true
+[2024.10.21-16.25.55:140][735]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_NPC1
+[2024.10.21-16.25.55:140][735]LogSavePackage: Moving '../../../../Proyectos3/FluffyGourmet/Saved/BP_NPC13CEB7B634ECCB98CA1C0D685A38849D1.tmp' to '../../../../Proyectos3/FluffyGourmet/Content/FirstPerson/Blueprints/BP_NPC1.uasset'
+[2024.10.21-16.25.55:144][735]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 4.70 sec)
+[2024.10.21-16.25.55:147][735]AssetCheck: New page: Asset Save: BP_NPC1
+[2024.10.21-16.25.55:147][735]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_NPC1.BP_NPC1
+[2024.10.21-16.25.56:972][939]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.21-16.25.56:977][939]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.10.21-16.25.56:977][939]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.10.21-16.25.56:978][939]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 1 ms (total: 19 ms)
+[2024.10.21-16.25.56:979][939]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.21-16.25.56:979][939]PIE: New page: PIE session: FirstPersonMap (21 oct. 2024 20:25:56)
+[2024.10.21-16.25.57:005][939]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.10.21-16.25.57:009][939]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003667s)
+[2024.10.21-16.25.57:009][939]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.003699s)
+[2024.10.21-16.25.57:025][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.10.21-16.25.57:032][939]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.21-16.25.57:032][939]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.21-16.25.57:033][939]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.10.21-16.25.57:033][939]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.10.21-16.25.57:033][939]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.10.21-16.25.57:033][939]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.10.21-16.25.57:033][939]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.10.21-16.25.57:034][939]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.10.21-16.25.57:034][939]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 56 ms)
+[2024.10.21-16.25.57:034][939]LogPlayLevel: PIE: World Init took: (0.002063s)
+[2024.10.21-16.25.57:034][939]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2024.10.21-16.25.57:034][939]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.21-16.25.57:034][939]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.21-16.25.57:034][939]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.21-16.25.57:034][939]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.21-16.25.57:034][939]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.21-16.25.57:034][939]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.21-16.25.57:034][939]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.21-16.25.57:034][939]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.21-16.25.57:034][939]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.21-16.25.57:035][939]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.21-16.25.57:035][939]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.21-16.25.57:036][939]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.21-16.25.57:068][939]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (3- Realtek High Definition Audio)
+[2024.10.21-16.25.57:068][939]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.21-16.25.57:068][939]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.21-16.25.57:068][939]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.21-16.25.57:069][939]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2024.10.21-16.25.57:069][939]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2024.10.21-16.25.57:070][939]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2024.10.21-16.25.57:070][939]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2024.10.21-16.25.57:070][939]LogInit: FAudioDevice initialized with ID 16.
+[2024.10.21-16.25.57:070][939]LogAudio: Display: Audio Device (ID: 16) registered with world 'FirstPersonMap'.
+[2024.10.21-16.25.57:070][939]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2024.10.21-16.25.57:073][939]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.10.21-16.25.57:076][939]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.10.21-18.25.57
+[2024.10.21-16.25.57:077][939]LogWorld: Bringing up level for play took: 0.003502
+[2024.10.21-16.25.57:078][939]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2024.10.21-16.25.57:080][939]PIE: Server logged in
+[2024.10.21-16.25.57:081][939]PIE: Play in editor total start time 0,104 seconds.
+[2024.10.21-16.26.11:249][623]LogBlueprintUserMessages: [BP_Item_C_UAID_244BFE904A690C2502_1312607679] Objeto Cogido
+[2024.10.21-16.26.13:608][906]LogBlueprintUserMessages: [BP_Item_C_UAID_244BFE904A69B32602_1471731128] Objeto Cogido
+[2024.10.21-16.26.16:342][234]LogBlueprintUserMessages: [BP_Item_C_UAID_244BFE904A69FD2502_1128381095] Objeto Cogido
+[2024.10.21-16.26.30:866][972]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.21-16.26.30:866][972]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.10.21-16.26.30:866][972]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.21-16.26.30:866][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.21-16.26.30:867][972]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.10.21-16.26.30:870][972]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.21-16.26.30:874][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.21-16.26.30:891][972]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.21-16.26.30:891][972]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2024.10.21-16.26.30:891][972]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.10.21-16.26.30:893][972]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.10.21-16.26.30:899][972]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.10.21-16.26.30:962][973]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2024.10.21-16.26.33:214][238]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.21-16.26.33:246][238]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/PX/ILA7ETUHAAM3IL8XAHWN87
+[2024.10.21-16.26.33:246][238]LogSavePackage: Moving '../../../../Proyectos3/FluffyGourmet/Saved/ILA7ETUHAAM3IL8XAHWN874E57D78641A9CB9C7EBAEBA40CB31CB2.tmp' to '../../../../Proyectos3/FluffyGourmet/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/PX/ILA7ETUHAAM3IL8XAHWN87.uasset'
+[2024.10.21-16.26.33:248][238]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/0E/PX8FCUJ9IL4W07CHK3O531
+[2024.10.21-16.26.33:248][238]LogSavePackage: Moving '../../../../Proyectos3/FluffyGourmet/Saved/PX8FCUJ9IL4W07CHK3O531D1A86ACB4BB9DA5A861C25B2808873E4.tmp' to '../../../../Proyectos3/FluffyGourmet/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/0E/PX8FCUJ9IL4W07CHK3O531.uasset'
+[2024.10.21-16.26.33:251][238]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/HT/VU3D05DVIOD4JKDV2A78TK
+[2024.10.21-16.26.33:251][238]LogSavePackage: Moving '../../../../Proyectos3/FluffyGourmet/Saved/VU3D05DVIOD4JKDV2A78TK68273C774402C6CB09A33084DFE84439.tmp' to '../../../../Proyectos3/FluffyGourmet/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/HT/VU3D05DVIOD4JKDV2A78TK.uasset'
+[2024.10.21-16.26.33:257][238]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 4.74 sec)
+[2024.10.21-16.26.33:293][238]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.21-16.26.33:293][238]LogContentValidation: Display: Validating /Game/FirstPerson/Blueprints/BP_NPC1.BP_NPC1_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_NPC1_C_UAID_244BFE904A69CD2702_1412601759
+[2024.10.21-16.26.33:293][238]LogContentValidation: Display: Validating /Script/NavigationSystem.NavMeshBoundsVolume /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.NavMeshBoundsVolume_UAID_244BFE904A69DF2702_1758571930
+[2024.10.21-16.26.33:293][238]LogContentValidation: Display: Validating /Script/NavigationSystem.RecastNavMesh /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.RecastNavMesh_UAID_244BFE904A69DF2702-Default
